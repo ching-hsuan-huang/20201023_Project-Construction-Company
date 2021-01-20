@@ -202,7 +202,7 @@ a{
 
 
 .banner{
-	background-image: url(/img/banner.jpg);
+	background-image: url(img/banner.jpg);
 	background-position: center;
 	height: 800px;
 }
