@@ -202,7 +202,7 @@ a{
 
 
 .banner{
-	background-image: url(img/banner.jpg);
+	background-image: url("https://raw.githubusercontent.com/ching-hsuan-huang/20201023_Project-Construction-Company/main/img/banner.jpg");
 	background-position: center;
 	height: 800px;
 }
